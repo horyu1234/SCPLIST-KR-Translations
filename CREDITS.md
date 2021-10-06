@@ -7,7 +7,7 @@
 |    zh     |      Chinese      | zh-CN             | Ningmeng     |
 |   zh_TW   |Traditional Chinese| zh-TW             | Cheng Cheng  |
 |   zh_HK   | Cantonese Chinese | zh-HK             | Satoshi      |
-|    ja     |      Japanese     | ja                | Satoshi      |
+|    ja     |      Japanese     | ja-JP             | Satoshi      |
 |    es     |      Spanish      | es-ES             | Jesus-QC     |
 |    pl     |      Polish       | pl-PL             | Killers0992  |
 |    ca     |      Catalan      | ca-ES             | xRoier       |
