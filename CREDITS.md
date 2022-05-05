@@ -11,3 +11,4 @@
 |    ca     |      Catalan      | ca-ES             | xRoier       |
 |    fr     |      French       | fr-FR             | biolix06     |
 |    tr     |      Turkish      | tr-TR             | BOT Benson   |
+|    it     |      Italian      | it-IT             | FoxWorn3365  |
