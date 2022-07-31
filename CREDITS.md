@@ -11,3 +11,4 @@
 |    ca     |      Catalan      | ca-ES             | xRoier       |
 |    fr     |      French       | fr-FR             | biolix06     |
 |    tr     |      Turkish      | tr-TR             | BOT Benson   |
+|    de     |      German       | de-DE             | OptixWolf    |
