@@ -12,3 +12,4 @@
 |    fr     |      French       | fr-FR             | biolix06     |
 |    tr     |      Turkish      | tr-TR             | BOT Benson   |
 |    th     |      Thailand     | th-TH             | ImFiwEditer  |
+|    it     |      Italian      | it-IT             | FoxWorn3365  |
