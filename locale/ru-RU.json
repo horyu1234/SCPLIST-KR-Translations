@@ -1,0 +1,147 @@
+{
+  "general": {
+    "language-change": "Язык изменен на {{language}}. Некоторые языки могут нуждаться в обновлении."
+  },
+  "navbar": {
+    "title": "Сервера SCP:SL",
+    "server-list": "Список",
+    "all-stats": "Статистика",
+    "all-server-map": "Карта"
+  },
+  "select": {
+    "placeholder": "Выберите элемент",
+    "empty": "Ничего не выбрано"
+  },
+  "filter-option": {
+    "server-search": {
+      "name": "Поиск серверов",
+      "placeholder": "Введи запросы",
+      "search-btn": "Поиск"
+    },
+    "country-filter": "Фильтр Государств",
+    "hide-empty": "Скрыть пустые сервера",
+    "hide-full": "Скрыть заполненные сервера",
+    "refresh-btn": "Перезагрузить",
+    "refreshing": "Перезагрузка...",
+    "yes-no-filter": {
+      "none": "Неважно",
+      "yes": "Вкл",
+      "no": "Выкл",
+      "friendly-fire": "Огонь по своим",
+      "whitelist": "Белый список",
+      "modded": "Модифицирован",
+      "order-type": {
+        "name": "Сортировка",
+        "player-desc": "Больше игроков",
+        "player-asc": "Меньше игроков",
+        "distance-asc": "Ближайшие",
+        "distance-desc": "Дальние"
+      }
+    }
+  },
+  "server-stats": {
+    "online-users": "Пользователей: {{count}}",
+    "online-servers": "Серверов: {{count}}",
+    "display-users": "Пользователей в списке: {{count}}",
+    "display-servers": "Серверов в списке: {{count}}",
+    "offline-servers": "Серверов офлайн: {{count}}"
+  },
+  "server-list": {
+    "head": {
+      "number": "Номер",
+      "address": "Адрес",
+      "name": "Название",
+      "pastebin": "Информация",
+      "players": "Игроков",
+      "distance": "Дистанция"
+    },
+    "loading": "Загрузка данных...",
+    "empty": "Нет данных.",
+    "tech": {
+      "yes": "Вкл",
+      "no": "Выкл",
+      "country": "Гос-во",
+      "game-version": "Версия игры",
+      "friendly-fire": "Огонь по своим",
+      "whitelist": "Белый список"
+    }
+  },
+  "server-info": {
+    "title": "Информация о сервере",
+    "status": {
+      "name": "Статус",
+      "online": "Онлайн",
+      "offline": "Офлайн"
+    },
+    "address": "Адрес",
+    "players": "Игроков",
+    "pastebin": "Инфо",
+    "distance": "Расстояние до вас",
+    "statistics": "Статистика",
+    "daylight-saving-time": "Переход на летнее время не влияет на график.",
+    "graph": {
+      "loading": "Загрузка данных...",
+      "visitors": "Игроков",
+      "visitor-suffix": "",
+      "options": {
+        "date-format": "yyyy-MM-dd aa hh:mm",
+        "invalid-start-time": "Начало должно быть раньше конца.",
+        "invalid-stop-time": "Конец должен быть позже начала.",
+        "data-range": "Период",
+        "start-time": "Начало",
+        "stop-time": "Конец",
+        "data-resolution": "Маштаб",
+        "graph-update-btn": "Обновить график",
+        "period": {
+          "custom": "Свой",
+          "1hour": "Час",
+          "8hour": "8 Часов",
+          "1day": "Сутки",
+          "2day": "2 Суток",
+          "1week": "Неделя",
+          "1month": "Месяц",
+          "3month": "Квартал",
+          "1year": "Год",
+          "4year": "4 Года"
+        },
+        "resolution": {
+          "1m": "1 Минута",
+          "5m": "5 Минут",
+          "1h": "Час",
+          "1d": "День"
+        }
+      }
+    }
+  },
+  "footer": {
+    "notice": "SCP: Secret Laboratory игра, выпущенная Northwood Studios™, сайт не имеет никакого отношения к студии Northwood.<br/>Все товарные знаки и зарегистрированные товарные знаки являются собственностью соответствующих владельцев."
+  },
+  "cookie-notice": {
+    "message": "Этот сайт использует файлы cookie для максимальной производительности и удобства.",
+    "dismiss": "Хорошо",
+    "link-text": "Узнать больше"
+  },
+  "all-stats": {
+    "users": {
+      "title": "Общее число игроков",
+      "select-compare-country": {
+        "name": "Выбрать гос-во"
+      },
+      "show-all": {
+        "name": "Показывать данные всех стран"
+      },
+      "graph": {
+        "all-country": "Все страны",
+        "empty-country": "Нет данных для отображения."
+      }
+    },
+    "mod-loader": {
+      "title": "Статистика фреймворков",
+      "tooltip": "Фреймворк"
+    }
+  },
+  "all-server-map": {
+    "title": "Карта Серверов",
+    "server-info-btn": "Нажмите для получения подробной информации"
+  }
+}
