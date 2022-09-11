@@ -14,8 +14,8 @@
   },
   "filter-option": {
     "server-search": {
-      "name": "Поиск серверов",
-      "placeholder": "Введи запросы",
+      "name": "Поиск сервера",
+      "placeholder": "Введите запрос",
       "search-btn": "Поиск"
     },
     "country-filter": "Фильтр Государств",
