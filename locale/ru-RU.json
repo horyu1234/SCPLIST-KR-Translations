@@ -45,7 +45,7 @@
     "online-servers": "Серверов: {{count}}",
     "display-users": "Игроков в списке: {{count}}",
     "display-servers": "Серверов в списке: {{count}}",
-    "offline-servers": "Серверов офлайн: {{count}}"
+    "offline-servers": "Серверов оффлайн (кэшированных): {{count}}"
   },
   "server-list": {
     "head": {
