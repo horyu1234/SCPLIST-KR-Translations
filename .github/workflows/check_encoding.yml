@@ -1,0 +1,17 @@
+name: Check File Encoding
+
+on: [ push, pull_request ]
+
+jobs:
+  check-encoding:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "[Git] Checkout repository"
+        uses: actions/checkout@v3
+
+      - name: "[-] Check language.json file encoding is us-ascii"
+        run: echo '! find $GITHUB_WORKSPACE -type f -wholename "*/data/language.json" -exec file --mime {} \; | grep -v "charset=us-ascii$"' | bash
+
+      - name: "[-] Check locale folder file encoding is utf-8"
+        run: echo '! find $GITHUB_WORKSPACE -type f -wholename "*/locale/*.json" -exec file --mime {} \; | grep -v "charset=utf-8$"' | bash
