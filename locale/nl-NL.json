@@ -1,0 +1,149 @@
+{
+  "general": {
+    "language-change": "Changed language to {{language}}. Some may need a refresh.",
+    "not-found": "De pagina die u heeft opgevraagd kan niet worden gevonden."
+  },
+  "navbar": {
+    "title": "SCP: SL Servers",
+    "server-list": "Server Lijst",
+    "all-stats": "Volledige statistieken",
+    "all-server-map": "Kaart van alle servers"
+  },
+  "select": {
+    "placeholder": "Selecteer alstublieft een item",
+    "empty": "Niks geselecteerd"
+  },
+  "filter-option": {
+    "server-search": {
+      "name": "Server Zoeken",
+      "placeholder": "Zoektermen invoeren",
+      "search-btn": "Zoek"
+    },
+    "country-filter": "Landen Filter",
+    "hide-empty": "Verberg lege servers",
+    "hide-full": "Verberg volle servers",
+    "refresh-btn": "Herlaad Lijst",
+    "refreshing": "Lijst herladen...",
+    "yes-no-filter": {
+      "none": "Alle",
+      "yes": "Ja",
+      "no": "Nee",
+      "friendly-fire": "Eigen Vuur",
+      "whitelist": "Whitelist",
+      "modded": "Gemodificeerd",
+      "order-type": {
+        "name": "Sorteer Type",
+        "player-desc": "Een groot aantal mensen",
+        "player-asc": "Een klein aantal mensen",
+        "distance-asc": "Kleine afstand",
+        "distance-desc": "Grote afstand"
+      }
+    }
+  },
+  "server-stats": {
+    "online-users": "Alle gebruikers: {{count}}",
+    "online-servers": "Online servers: {{count}}",
+    "display-users": "Weergegeven gebruikers: {{count}}",
+    "display-servers": "Weergegeven servers: {{count}}",
+    "offline-servers": "Offline (gecache) servers: {{count}}"
+  },
+  "server-list": {
+    "head": {
+      "number": "Nummer",
+      "address": "Adres",
+      "name": "Naam",
+      "pastebin": "Pastebin",
+      "players": "Spelers",
+      "distance": "Afstand"
+    },
+    "loading": "Gegevens laden van server...",
+    "empty": "Er zijn geen gegevens om weer te geven.",
+    "tech": {
+      "yes": "Ja",
+      "no": "Nee",
+      "country": "Land",
+      "game-version": "Game Versie",
+      "friendly-fire": "Eigen Vuur",
+      "whitelist": "Whitelist"
+    }
+  },
+  "server-info": {
+    "title": "Server Informatie",
+    "not-exist": "De server bestaat niet",
+    "status": {
+      "name": "Status",
+      "online": "Online",
+      "offline": "Offline"
+    },
+    "address": "Adres",
+    "players": "Spelers",
+    "pastebin": "Pastebin",
+    "distance": "Afstand",
+    "statistics": "Server Statistieken",
+    "daylight-saving-time": "De tijd op de grafiek wordt niet beïnvloed door de zomertijd.",
+    "graph": {
+      "loading": "Gegevens laden van server...",
+      "visitors": "Bezoekers",
+      "visitor-suffix": "",
+      "options": {
+        "date-format": "yyyy-MM-dd aa hh:mm",
+        "invalid-start-time": "De starttijd moet eerder zijn dan de eindtijd.",
+        "invalid-stop-time": "De stoptijd moet later zijn dan de starttijd.",
+        "data-range": "Data Periode",
+        "start-time": "Starttijd",
+        "stop-time": "Stoptijd",
+        "data-resolution": "Data Resolutie",
+        "graph-update-btn": "Grafiek bijwerken",
+        "period": {
+          "custom": "Custom",
+          "1hour": "1 Uur",
+          "8hour": "8 Uren",
+          "1day": "1 Dag",
+          "2day": "2 Dagen",
+          "1week": "1 Week",
+          "1month": "1 Maand",
+          "3month": "3 Maanden",
+          "1year": "1 Jaar",
+          "4year": "4 Jaren"
+        },
+        "resolution": {
+          "1m": "1 Minuut",
+          "5m": "5 Minuten",
+          "1h": "1 Uur",
+          "1d": "1 Dag"
+        }
+      }
+    }
+  },
+  "footer": {
+    "notice": "SCP: Secret Laboratory is een game uitgebracht door Northwood Studios™, deze site is niet verbonden met Northwood Studios™.<br/>Alle handelsmerken en geregistreerde handelsmerken zijn eigendom van hun respectievelijke eigenaren."
+  },
+  "cookie-notice": {
+    "message": "Deze website gebruikt cookies om ervoor te zorgen dat u de beste ervaring krijgt op onze website.",
+    "dismiss": "Begrepen!",
+    "link-text": "Meer leren"
+  },
+  "all-stats": {
+    "users": {
+      "title": "Totaal aantal server gebruikers",
+      "select-compare-country": {
+        "name": "Selecteer Land"
+      },
+      "show-all": {
+        "name": "Alle landgegevens weergeven"
+      },
+      "graph": {
+        "all-country": "Alle landen",
+        "empty-country": "Er zijn geen gegevens om op te vragen."
+      }
+    },
+    "mod-loader": {
+      "title": "Mod loader statistieken",
+      "tooltip": "Mod Loader"
+    }
+  },
+  "all-server-map": {
+    "title": "Kaart van alle servers",
+    "server-info-btn": "Klik om serverinformatie te controleren"
+  }
+}
