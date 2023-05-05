@@ -86,7 +86,7 @@
       "visitors": "Посетителя",
       "visitor-suffix": "",
       "options": {
-        "date-format": "гггг-мм-дд аа чч:мм",
+        "date-format": "yyyy-MM-dd aa hh:mm",
         "invalid-start-time": "Началното време трябва да е по-рано отколкото крайното време.",
         "invalid-stop-time": "Крайното време трябва да е по-късно отколкото началното време",
         "data-range": "Период на данни",
