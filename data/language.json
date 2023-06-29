@@ -1,113 +1,120 @@
 [
-  {
-    "code": "en-US",
-    "name": "English",
-    "contributors": []
-  },
-  {
-    "code": "ko-KR",
-    "name": "Korean",
-    "contributors": []
-  },
-  {
-    "code": "ru-RU",
-    "name": "Russian",
-    "contributors": [
-      "STANDART SCP",
-      "skill-issue#9673",
-      "bladuk."
-    ]
-  },
-  {
-    "code": "uk-UA",
-    "name": "Ukrainian",
-    "contributors": [
-      "STANDART SCP",
-      "Lambda Project"
-    ]
-  },
-  {
-    "code": "zh-CN",
-    "name": "Chinese",
-    "contributors": [
-      "Ningmeng"
-    ]
-  },
-  {
-    "code": "zh-TW",
-    "name": "Traditional Chinese",
-    "contributors": [
-      "Cheng Cheng"
-    ]
-  },
-  {
-    "code": "es-ES",
-    "name": "Spanish",
-    "contributors": [
-      "Jesus-QC"
-    ]
-  },
-  {
-    "code": "pl-PL",
-    "name": "Polish",
-    "contributors": [
-      "Killers0992"
-    ]
-  },
-  {
-    "code": "ca-ES",
-    "name": "Catalan",
-    "contributors": [
-      "xRoier"
-    ]
-  },
-  {
-    "code": "fr-FR",
-    "name": "French",
-    "contributors": [
-      "biolix06"
-    ]
-  },
-  {
-    "code": "tr-TR",
-    "name": "Turkish",
-    "contributors": [
-      "BOT Benson"
-    ]
-  },
-  {
-    "code": "th-TH",
-    "name": "Thailand",
-    "contributors": [
-      "ImFiwEditer"
-    ]
-  },
-  {
-    "code": "it-IT",
-    "name": "Italian",
-    "contributors": [
-      "FoxWorn3365"
-    ]
-  },
-  {
-    "code": "lij-IT",
-    "name": "Ligurian",
-    "contributors": [
-      "FoxWorn3365"
-    ]
-  },
-  {
-    "code": "de-DE",
-    "name": "German",
-    "contributors": [
-      "OptixWolf"
-    ]
-  },
     {
-    "code": "bg-BG",
-    "name": "Bulgarian",
-    "contributors": [
-      "georgi170109"
-    ]
-  }
-]
+      "code": "en-US",
+      "name": "English",
+      "contributors": []
+    },
+    {
+      "code": "ko-KR",
+      "name": "Korean",
+      "contributors": []
+    },
+    {
+      "code": "ru-RU",
+      "name": "Russian",
+      "contributors": [
+        "STANDART SCP",
+        "skill-issue#9673",
+        "bladuk."
+      ]
+    },
+    {
+      "code": "uk-UA",
+      "name": "Ukrainian",
+      "contributors": [
+        "STANDART SCP",
+        "Lambda Project"
+      ]
+    },
+    {
+      "code": "zh-CN",
+      "name": "Chinese",
+      "contributors": [
+        "Ningmeng"
+      ]
+    },
+    {
+      "code": "zh-TW",
+      "name": "Traditional Chinese",
+      "contributors": [
+        "Cheng Cheng"
+      ]
+    },
+    {
+      "code": "es-ES",
+      "name": "Spanish",
+      "contributors": [
+        "Jesus-QC"
+      ]
+    },
+    {
+      "code": "pl-PL",
+      "name": "Polish",
+      "contributors": [
+        "Killers0992"
+      ]
+    },
+    {
+      "code": "ca-ES",
+      "name": "Catalan",
+      "contributors": [
+        "xRoier"
+      ]
+    },
+    {
+      "code": "fr-FR",
+      "name": "French",
+      "contributors": [
+        "biolix06"
+      ]
+    },
+    {
+      "code": "tr-TR",
+      "name": "Turkish",
+      "contributors": [
+        "BOT Benson"
+      ]
+    },
+    {
+      "code": "th-TH",
+      "name": "Thailand",
+      "contributors": [
+        "ImFiwEditer"
+      ]
+    },
+    {
+      "code": "it-IT",
+      "name": "Italian",
+      "contributors": [
+        "FoxWorn3365"
+      ]
+    },
+    {
+      "code": "lij-IT",
+      "name": "Ligurian",
+      "contributors": [
+        "FoxWorn3365"
+      ]
+    },
+    {
+      "code": "de-DE",
+      "name": "German",
+      "contributors": [
+        "OptixWolf"
+      ]
+    },
+      {
+      "code": "bg-BG",
+      "name": "Bulgarian",
+      "contributors": [
+        "georgi170109"
+      ]
+    },
+      {
+      "code": "nb-NO",
+      "name": "Norwegian",
+      "contributors": [
+        "Kf637"
+      ]
+    }
+  ]
