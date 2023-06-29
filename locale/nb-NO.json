@@ -1,6 +1,6 @@
 {
   "general": {
-    "language-change": "Endret spr??ket til {{language}}. Noen sider kan trenge ?? bli oppdatert.",
+    "language-change": "Endret språket til {{language}}. Noen sider kan trenge å bli oppdatert.",
     "not-found": "Siden du ba om kunne ikke bli funnet."
   },
   "navbar": {
@@ -15,14 +15,14 @@
   },
   "filter-option": {
     "server-search": {
-      "name": "Server S??k",
-      "placeholder": "Skriv inn s??keord",
-      "search-btn": "S??k"
+      "name": "Server Søk",
+      "placeholder": "Skriv inn søkeord",
+      "search-btn": "Søk"
     },
     "country-filter": "Landfilter",
     "hide-empty": "Skjul tomme servere",
     "hide-full": "Skjul fulle servere",
-    "refresh-btn": "Last inn liste p?? nytt",
+    "refresh-btn": "Last inn liste på nytt",
     "refreshing": "Laster inn liste...",
     "yes-no-filter": {
       "none": "Inkluder alle",
@@ -32,7 +32,7 @@
       "whitelist": "Hviteliste",
       "modded": "Modifisert",
       "order-type": {
-        "name": "Sorteringsrekkef??lge",
+        "name": "Sorteringsrekkefølge",
         "player-desc": "Et stort antall mennesker",
         "player-asc": "Et lite antall mennesker",
         "distance-asc": "Kort avstand",
@@ -57,7 +57,7 @@
       "distance": "Avstand"
     },
     "loading": "Laster data fra server...",
-    "empty": "Det er ingen data ?? vise.",
+    "empty": "Det er ingen data å vise.",
     "tech": {
       "yes": "Ja",
       "no": "Nei",
@@ -80,19 +80,19 @@
     "pastebin": "Pastebin",
     "distance": "Avstand",
     "statistics": "Serverstatistikk",
-    "daylight-saving-time": "Tiden p?? grafen p??virkes ikke av sommertid.",
+    "daylight-saving-time": "Tiden på grafen påvirkes ikke av sommertid.",
     "graph": {
       "loading": "Laster data fra server...",
-      "visitors": "Bes??kende",
+      "visitors": "Besøkende",
       "visitor-suffix": "",
       "options": {
         "date-format": "yyyy-MM-dd aa hh:mm",
-        "invalid-start-time": "Starttiden m?? v??re tidligere enn stopptiden.",
-        "invalid-stop-time": "Stopptiden m?? v??re senere enn starttiden.",
+        "invalid-start-time": "Starttiden må være tidligere enn stopptiden.",
+        "invalid-stop-time": "Stopptiden må være senere enn starttiden.",
         "data-range": "Dataperiode",
         "start-time": "Starttid",
         "stop-time": "Stoptid",
-        "data-resolution": "Dataoppl??sning",
+        "data-resolution": "Dataoppløsning",
         "graph-update-btn": "Oppdater Graf",
         "period": {
           "custom": "Tilpasset",
@@ -101,10 +101,10 @@
           "1day": "1 dag",
           "2day": "2 dager",
           "1week": "1 uke",
-          "1month": "1 m??ned",
-          "3month": "3 m??neder",
-          "1year": "1 ??r",
-          "4year": "4 ??r"
+          "1month": "1 måned",
+          "3month": "3 måneder",
+          "1year": "1 år",
+          "4year": "4 år"
         },
         "resolution": {
           "1m": "1 minutt",
@@ -116,16 +116,16 @@
     }
   },
   "footer": {
-    "notice": "SCP: Secret Laboratory er et spill utgitt av Northwood Studios???. Denne nettsiden er ikke tilknyttet Northwood Studios???.<br/>Alle varemerker og registrerte varemerker tilh??rer sine respektive eiere."
+    "notice": "SCP: Secret Laboratory er et spill utgitt av Northwood Studios. Denne nettsiden er ikke tilknyttet Northwood Studios.<br/>Alle varemerker og registrerte varemerker tilhører sine respektive eiere."
   },
   "cookie-notice": {
-    "message": "Denne nettsiden bruker informasjonskapsler for ?? sikre at du f??r den beste opplevelsen p?? v??r nettside.",
-    "dismiss": "Forst??tt!",
-    "link-text": "L??r mer"
+    "message": "Denne nettsiden bruker informasjonskapsler for å sikre at du får den beste opplevelsen på vår nettside.",
+    "dismiss": "Forstått!",
+    "link-text": "Lær mer"
   },
   "all-stats": {
     "users": {
-      "title": "Totalt antall brukere p?? serveren",
+      "title": "Totalt antall brukere på serveren",
       "select-compare-country": {
         "name": "Velg land"
       },
@@ -134,7 +134,7 @@
       },
       "graph": {
         "all-country": "Alle land",
-        "empty-country": "Det er ingen data ?? hente."
+        "empty-country": "Det er ingen data å hente."
       }
     },
     "mod-loader": {
@@ -144,6 +144,6 @@
   },
   "all-server-map": {
     "title": "Kart over alle servere",
-    "server-info-btn": "Klikk for ?? sjekke serverinformasjon"
+    "server-info-btn": "Klikk for å sjekke serverinformasjon"
   }
 }
