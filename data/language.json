@@ -123,5 +123,26 @@
     "contributors": [
       "Kf637"
     ]
+  },
+  {
+    "code": "dk-DK",
+    "name": "Danish",
+    "contributors": [
+      "Kf637"
+    ]
+  },
+  {
+    "code": "fi-FI",
+    "name": "Finnish",
+    "contributors": [
+      "Kf637"
+    ]
+  },
+  {
+    "code": "eo-EO",
+    "name": "Estonian",
+    "contributors": [
+      "Kf637"
+    ]
   }
 ]
