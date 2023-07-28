@@ -5,4 +5,4 @@
 * `locale/*.json` files must be encoded in **UTF-8 (With BOM).**
 * Please use the [Pull requests](https://github.com/horyu1234/SCPLIST-KR-Translations/pulls) to correct incorrect translations or contribute to new translations.
 * Please modify the `/data/language.json` file as well when contributing to the translation.
-* If you have any questions, please contact Discord **호류#7777**.
+* If you have any questions, please contact Discord Username: **horyu**

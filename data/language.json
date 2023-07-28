@@ -73,7 +73,8 @@
     "code": "tr-TR",
     "name": "Turkish",
     "contributors": [
-      "BOT Benson"
+      "BOT Benson",
+      "Muteo"
     ]
   },
   {
@@ -102,6 +103,48 @@
     "name": "German",
     "contributors": [
       "OptixWolf"
+    ]
+  },
+  {
+    "code": "bg-BG",
+    "name": "Bulgarian",
+    "contributors": [
+      "georgi170109"
+    ]
+  },
+  {
+    "code": "nb-NO",
+    "name": "Norwegian",
+    "contributors": [
+      "Kf637"
+    ]
+  },
+  {
+    "code": "sv-SV",
+    "name": "Swedish",
+    "contributors": [
+      "Kf637"
+    ]
+  },
+  {
+    "code": "dk-DK",
+    "name": "Danish",
+    "contributors": [
+      "Kf637"
+    ]
+  },
+  {
+    "code": "fi-FI",
+    "name": "Finnish",
+    "contributors": [
+      "Kf637"
+    ]
+  },
+  {
+    "code": "eo-EO",
+    "name": "Estonian",
+    "contributors": [
+      "Kf637"
     ]
   }
 ]
