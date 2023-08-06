@@ -70,7 +70,7 @@
   },
   "server-info": {
     "title": "Informations du serveur",
-    "not-exist": "Ce serveur n'existe pas.",
+    "not-exist": "Le serveur n'existe pas.",
     "status": {
       "name": "État",
       "online": "En ligne",
