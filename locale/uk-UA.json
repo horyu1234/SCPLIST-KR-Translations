@@ -93,7 +93,7 @@
         "data-range": "Період даних",
         "start-time": "Час початку",
         "stop-time": "Час зупинки",
-        "data-resolution": "Кількість даних",
+        "data-resolution": "Масштаб",
         "graph-update-btn": "Відновити графік",
         "period": {
           "custom": "Свій",
