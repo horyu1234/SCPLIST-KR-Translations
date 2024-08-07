@@ -2,7 +2,7 @@
   "general": {
     "language-change": "Alterou o idioma para {{language}}. Alguns talvez precisem recarregar a página.",
     "not-found": "A página que você solicitou não pôde ser encontrada.",
-    "server-error": "Um erro ocorreu durante a obtenção de dados do sservidor. Alguns problemas geralmente são temporários, então tente novamente após um curto período de tempo. Se o problema persistir, por favor, contate 'horyu' no Discord."
+    "server-error": "Um erro ocorreu durante a obtenção de dados do servidor. Alguns problemas geralmente são temporários, então tente novamente após um curto período de tempo. Se o problema persistir, por favor, contate 'horyu' no Discord."
   },
   "navbar": {
     "title": "Servidores do SCP:SL",
