@@ -100,7 +100,7 @@
       "options": {
         "date-format": "dd-MM-yyyy HH:mm",
         "invalid-start-time": "Der Startzeitpunkt muss vor dem Endzeitpunkt sein.",
-        "invalid-stop-time": "Die Stopzeit muss nach dem Startzeitpunkt sein.",
+        "invalid-stop-time": "Der Endzeitpunkt muss nach dem Startzeitpunkt sein.",
         "data-range": "Zeitraum",
         "start-time": "Startzeitpunkt",
         "stop-time": "Stopzeit",
